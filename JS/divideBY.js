@@ -5,4 +5,4 @@ var divideBY3 = function(number1){
   console.log(result);
 };
 
-divideBY3();
+divideBY3(9);
