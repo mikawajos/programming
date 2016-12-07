@@ -1,6 +1,6 @@
 /*jshint multistr:true */
 
-var text = 'asd caw as ac sdas dasasda dq2da Adk8 Marcin jas o8ca7uiahs ayudi';
+var text = 'asd caw as ac sdas dasasda dq2da Adk8 MaRcin jas o8ca7uiahs ayudi';
 var myName = 'Marcin';
 hits = [];
 
