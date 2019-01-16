@@ -1,3 +1,5 @@
+package testScripts;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -13,6 +15,16 @@ public class DropDown {
         String urlAddress = "https://spicejet.com/";
 
         driver.get(urlAddress);
+        System.out.println("TEST");
+        Select s = new Select(((ChromeDriver) driver).findElementById("ctl00_mainContent_DropDownListCurrency"));
+        s.selectByIndex(1);
+//        driver.findElement(By.id("ctl00_mainContent_ddl_originStation1")).click();
+        ((ChromeDriver) driver).findElementById("ctl00_mainContent_ddl_originStation1_CTXT").click();
+//        ((ChromeDriver) driver).findElementByXPath("//a[@value='GOI']").click();
+        driver.findElement(By.cssSelector("a[value='VGA']")).click();
+        driver.close();
+        driver.quit();
+
 //        Select s = new Select(driver.findElement(By.id("ctl00_mainContent_ddl_originStation1")));
 //
 
