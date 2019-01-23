@@ -6,9 +6,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09b0ef21-04c4-4ac3-be35-1fed4cd7613e" name="Default Changelist" comment="16/01/2019 - &#10;+selenide&#10;+lambda&#10;+lombok - partially">
-      <change afterPath="$PROJECT_DIR$/src/test/java/testScripts/ThredsExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearnProject/src/enumHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearnProject/src/enumTesting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GITcfg.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../GITcfg.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../css1part.html" beforeDir="false" afterPath="$PROJECT_DIR$/../css1part.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../div1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../div1.html" afterDir="false" />
@@ -101,7 +101,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/selenideTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4">
+            <state relative-caret-position="68">
               <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
             </state>
           </provider>
@@ -269,6 +269,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -369,7 +370,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -378,12 +378,12 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SearchEverywhereHistoryKey" value="expected = 4;&#9;null&#9;null" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548015634436" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548273330928" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3554007" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -555,7 +555,14 @@
       <option name="project" value="LOCAL" />
       <updated>1547667913782</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="16/01/2019 - &#10;+selenide&#10;+lambda&#10;+lombok - partially">
+      <created>1548273267781</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1548273267781</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -602,13 +609,13 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1511" height="916" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.69714284" weight="0.25982082" />
-      <window_info id="Structure" order="1" sideWeight="0.52" side_tool="true" visible="true" weight="0.33494142" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6952381" visible="true" weight="0.25982082" />
+      <window_info id="Structure" order="1" sideWeight="0.30476192" side_tool="true" visible="true" weight="0.25982082" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
       <window_info id="UI Designer" order="5" />
-      <window_info active="true" id="Learn" order="6" sideWeight="0.48" visible="true" weight="0.33494142" />
+      <window_info id="Learn" order="6" sideWeight="0.47809523" weight="0.33976567" />
       <window_info id="Favorites" order="7" sideWeight="0.50857145" side_tool="true" weight="0.24948311" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32992327" />
@@ -618,8 +625,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4996554" weight="0.32950193" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4996554" weight="0.30523628" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.44038594" side_tool="true" visible="true" weight="0.32950193" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.7008959" weight="0.32950193" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.29979324" side_tool="true" visible="true" weight="0.32950193" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.70020676" visible="true" weight="0.32950193" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.3700896" weight="0.32950193" />
       <window_info anchor="bottom" id="Dependency Viewer" order="11" sideWeight="0.4996554" weight="0.32992327" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1159,6 +1166,13 @@ $().findElement(By.name('q')).getText()</expression-string>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/selenideTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/jdk/internal/reflect/DelegatingMethodAccessorImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -1170,13 +1184,6 @@ $().findElement(By.name('q')).getText()</expression-string>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8381">
           <caret line="563" selection-start-line="563" selection-end-line="563" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/selenideTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
         </state>
       </provider>
     </entry>
