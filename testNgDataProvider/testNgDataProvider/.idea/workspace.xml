@@ -2,29 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cd95ff6-20c9-4826-b15e-0418fce4014c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../DynamicDropDowns/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DynamicDropDowns/src/test/java/testScripts/ArrayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DynamicDropDowns/src/test/java/testScripts/LlistFilesOnDir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DynamicDropDowns/src/test/java/testScripts/MultiDimensionalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DynamicDropDowns/src/test/java/testScripts/bookStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DynamicDropDowns/src/test/java/testScripts/fileListInDirectory/ListFileByStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DynamicDropDowns/src/test/java/testScripts/interfaces/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DynamicDropDowns/src/test/java/testScripts/interfaces/Raport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DynamicDropDowns/src/test/java/testScripts/interfaces/Raporty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DynamicDropDowns/src/test/java/testScripts/interfaces/RaportyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DynamicDropDowns/src/test/java/testScripts/staticPackage/staticDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DynamicDropDowns/src/test/java/testScripts/staticPackage/staticExampleClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DynamicDropDowns/src/test/java/testScripts/students/GlownyCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DynamicDropDowns/src/test/java/testScripts/students/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DynamicDropDowns/src/test/java/testScripts/students/StudentDzienny.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SpringIO/helloWorld/src/main/java/pl/mikawajos/helloWorld/controllers/MainController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SpringIO/helloWorld/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DynamicDropDowns/src/test/java/testScripts/IIGenerateDiet/IBaseFeature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DynamicDropDowns/src/test/java/testScripts/InheritanceCars/BMW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DynamicDropDowns/src/test/java/testScripts/InheritanceCars/Cars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DynamicDropDowns/src/test/java/testScripts/ReverseString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../DynamicDropDowns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DynamicDropDowns/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -134,8 +117,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/com/javacodegeeks/testng/DataProviderParametersIntegrationExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="170">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               <folding>
                 <element signature="e#248#249#0" expanded="true" />
                 <element signature="e#316#317#0" expanded="true" />
@@ -239,7 +222,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549497075134" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549652070665" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
@@ -351,10 +334,19 @@
       <option name="presentableId" value="Default" />
       <updated>1549232665864</updated>
     </task>
+    <task id="LOCAL-00001" summary="DataProvider - 07-02-19">
+      <created>1549557147628</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549557147628</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1511" height="916" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49744245" visible="true" weight="0.31082013" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -387,6 +379,10 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="DataProvider - 07-02-19" />
+    <option name="LAST_COMMIT_MESSAGE" value="DataProvider - 07-02-19" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test/com/javacodegeeks/testng/DataProviderParametersAcceptanceExample.java">
@@ -437,8 +433,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/com/javacodegeeks/testng/DataProviderParametersIntegrationExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding>
             <element signature="e#248#249#0" expanded="true" />
             <element signature="e#316#317#0" expanded="true" />

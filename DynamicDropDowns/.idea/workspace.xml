@@ -2,29 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09b0ef21-04c4-4ac3-be35-1fed4cd7613e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testScripts/ArrayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testScripts/LlistFilesOnDir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testScripts/MultiDimensionalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testScripts/bookStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testScripts/fileListInDirectory/ListFileByStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testScripts/interfaces/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testScripts/interfaces/Raport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testScripts/interfaces/Raporty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testScripts/interfaces/RaportyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testScripts/staticPackage/staticDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testScripts/staticPackage/staticExampleClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testScripts/students/GlownyCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testScripts/students/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testScripts/students/StudentDzienny.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringIO/helloWorld/src/main/java/pl/mikawajos/helloWorld/controllers/MainController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringIO/helloWorld/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testNgDataProvider/testNgDataProvider/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testNgDataProvider/testNgDataProvider/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testNgDataProvider/testNgDataProvider/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testNgDataProvider/testNgDataProvider/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testNgDataProvider/testNgDataProvider/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testScripts/Account/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testScripts/Account/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testScripts/BuilderSample/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testScripts/BuilderSample/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testScripts/BuilderSample/TaskBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testScripts/IIGenerateDiet/IBaseFeature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testScripts/InheritanceCars/BMW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testScripts/InheritanceCars/Cars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testScripts/ReverseString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testScripts/interfaces/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testScripts/interfaces/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testNgDataProvider/testNgDataProvider/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testNgDataProvider/testNgDataProvider/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -48,103 +37,342 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/config/helpers/lambdaTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1131#1132#0" expanded="true" />
-                <element signature="e#1171#1172#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/arrayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/arrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/ArrayDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/ReverseString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+              <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/interfaces/MainClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jrt://C:/Program Files/Java/jdk-10.0.2!/java.base/javax/security/auth/login/AccountException.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#379#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/Account/Account.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+              <folding>
+                <element signature="e#121#122#0" expanded="true" />
+                <element signature="e#153#154#0" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/Account/AccountTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/BuilderSample/Task.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="443">
+              <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+              <folding>
+                <element signature="e#233#234#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#555#556#0" expanded="true" />
+                <element signature="e#580#581#0" expanded="true" />
+                <element signature="e#614#615#0" expanded="true" />
+                <element signature="e#644#645#0" expanded="true" />
+                <element signature="e#690#691#0" expanded="true" />
+                <element signature="e#728#729#0" expanded="true" />
+                <element signature="e#766#767#0" expanded="true" />
+                <element signature="e#800#801#0" expanded="true" />
+                <element signature="e#854#855#0" expanded="true" />
+                <element signature="e#900#901#0" expanded="true" />
+                <element signature="e#931#932#0" expanded="true" />
+                <element signature="e#958#959#0" expanded="true" />
+                <element signature="e#999#1000#0" expanded="true" />
+                <element signature="e#1031#1032#0" expanded="true" />
+                <element signature="e#1063#1064#0" expanded="true" />
+                <element signature="e#1113#1114#0" expanded="true" />
+                <element signature="e#1157#1158#0" expanded="true" />
+                <element signature="e#1215#1216#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/MultiDimensionalArray.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/BuilderSample/TaskBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/bookStore.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/config/helpers/immutabilityCheck.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state>
               <folding>
-                <element signature="e#161#162#0" expanded="true" />
-                <element signature="e#191#192#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#299#300#0" expanded="true" />
+                <element signature="e#990#991#0" expanded="true" />
+                <element signature="e#1060#1061#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/students/StudentDzienny.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/BuilderSample/MainTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state relative-caret-position="102">
+              <caret line="6" column="74" selection-start-line="6" selection-start-column="74" selection-end-line="6" selection-end-column="74" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/students/GlownyCheck.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/annotations/Test.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="-340">
+              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/staticPackage/staticDemo.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/Assert.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+            <state relative-caret-position="68">
+              <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#584#610#0" />
+                <element signature="e#616#765#0" />
+                <element signature="e#694#758#1" />
+                <element signature="e#868#1018#0" />
+                <element signature="e#946#1011#1" />
+                <element signature="e#1123#1289#0" />
+                <element signature="e#1452#1711#0" />
+                <element signature="e#1580#1640#1" />
+                <element signature="e#1646#1705#1" />
+                <element signature="e#1717#2088#0" />
+                <element signature="e#1837#2082#1" />
+                <element signature="e#1884#1948#1" />
+                <element signature="e#2008#2072#1" />
+                <element signature="e#2094#3239#0" />
+                <element signature="e#2199#3233#1" />
+                <element signature="e#2231#2322#1" />
+                <element signature="e#2354#2443#1" />
+                <element signature="e#2489#2553#1" />
+                <element signature="e#2648#2787#1" />
+                <element signature="e#2840#3222#1" />
+                <element signature="e#2969#3034#0" />
+                <element signature="e#3063#3208#0" />
+                <element signature="e#3354#3832#0" />
+                <element signature="e#3485#3826#1" />
+                <element signature="e#3545#3815#1" />
+                <element signature="e#3593#3801#1" />
+                <element signature="e#3949#4431#0" />
+                <element signature="e#4082#4425#1" />
+                <element signature="e#4142#4414#1" />
+                <element signature="e#4190#4400#1" />
+                <element signature="e#4544#5026#0" />
+                <element signature="e#4673#5020#1" />
+                <element signature="e#4733#5009#1" />
+                <element signature="e#4781#4995#1" />
+                <element signature="e#5147#5637#0" />
+                <element signature="e#5284#5631#1" />
+                <element signature="e#5344#5620#1" />
+                <element signature="e#5392#5606#1" />
+                <element signature="e#5752#6240#0" />
+                <element signature="e#5883#6234#1" />
+                <element signature="e#5943#6223#1" />
+                <element signature="e#5991#6209#1" />
+                <element signature="e#6357#6839#0" />
+                <element signature="e#6490#6833#1" />
+                <element signature="e#6550#6822#1" />
+                <element signature="e#6598#6808#1" />
+                <element signature="e#6958#7444#0" />
+                <element signature="e#7093#7438#1" />
+                <element signature="e#7153#7427#1" />
+                <element signature="e#7201#7413#1" />
+                <element signature="e#7559#8037#0" />
+                <element signature="e#7690#8031#1" />
+                <element signature="e#7750#8020#1" />
+                <element signature="e#7798#8006#1" />
+                <element signature="e#8043#8614#0" />
+                <element signature="e#8159#8195#1" />
+                <element signature="e#8201#8608#1" />
+                <element signature="e#8233#8329#1" />
+                <element signature="e#8361#8455#1" />
+                <element signature="e#8620#8749#0" />
+                <element signature="e#8755#8889#0" />
+                <element signature="e#8895#9024#0" />
+                <element signature="e#9030#9505#0" />
+                <element signature="e#9153#9259#1" />
+                <element signature="e#9185#9249#1" />
+                <element signature="e#9289#9402#1" />
+                <element signature="e#9328#9392#1" />
+                <element signature="e#9442#9498#1" />
+                <element signature="e#9511#9643#0" />
+                <element signature="e#9649#9977#0" />
+                <element signature="e#9768#9874#1" />
+                <element signature="e#9800#9864#1" />
+                <element signature="e#9914#9970#1" />
+                <element signature="e#9983#10112#0" />
+                <element signature="e#10118#10248#0" />
+                <element signature="e#10369#10505#0" />
+                <element signature="e#10632#10762#0" />
+                <element signature="e#10895#11025#0" />
+                <element signature="e#11158#11290#0" />
+                <element signature="e#11786#12102#0" />
+                <element signature="e#11873#12055#1" />
+                <element signature="e#11935#11985#1" />
+                <element signature="e#12204#12357#0" />
+                <element signature="e#12288#12350#1" />
+                <element signature="e#12363#12520#0" />
+                <element signature="e#12460#12514#1" />
+                <element signature="e#12641#12799#0" />
+                <element signature="e#12741#12792#1" />
+                <element signature="e#12926#13228#0" />
+                <element signature="e#13048#13090#1" />
+                <element signature="e#13234#13538#0" />
+                <element signature="e#13359#13401#1" />
+                <element signature="e#13670#13964#0" />
+                <element signature="e#13784#13826#1" />
+                <element signature="e#13970#14121#0" />
+                <element signature="e#14127#15166#0" />
+                <element signature="e#14240#15160#1" />
+                <element signature="e#14288#14509#1" />
+                <element signature="e#14324#14375#1" />
+                <element signature="e#14381#14495#1" />
+                <element signature="e#14803#15149#1" />
+                <element signature="e#15172#15315#0" />
+                <element signature="e#15321#16606#0" />
+                <element signature="e#15430#16600#1" />
+                <element signature="e#15478#15640#1" />
+                <element signature="e#15722#16072#1" />
+                <element signature="e#16157#16360#1" />
+                <element signature="e#16386#16589#1" />
+                <element signature="e#16612#16755#0" />
+                <element signature="e#16761#17288#0" />
+                <element signature="e#16870#17282#1" />
+                <element signature="e#16918#17137#1" />
+                <element signature="e#16954#17005#1" />
+                <element signature="e#17011#17123#1" />
+                <element signature="e#17294#17824#0" />
+                <element signature="e#17397#17818#1" />
+                <element signature="e#17477#17709#1" />
+                <element signature="e#17513#17564#1" />
+                <element signature="e#17570#17695#1" />
+                <element signature="e#17830#19008#0" />
+                <element signature="e#17940#19002#1" />
+                <element signature="e#18020#18156#1" />
+                <element signature="e#18202#18332#1" />
+                <element signature="e#18545#18627#1" />
+                <element signature="e#18734#18819#1" />
+                <element signature="e#18855#18991#1" />
+                <element signature="e#19014#19189#0" />
+                <element signature="e#19106#19141#1" />
+                <element signature="e#19147#19182#1" />
+                <element signature="e#19195#19332#0" />
+                <element signature="e#19338#19469#0" />
+                <element signature="e#19604#20268#0" />
+                <element signature="e#19703#20262#1" />
+                <element signature="e#19751#19986#1" />
+                <element signature="e#19787#19894#1" />
+                <element signature="e#19900#19972#1" />
+                <element signature="e#20024#20251#1" />
+                <element signature="e#20060#20159#1" />
+                <element signature="e#20165#20237#1" />
+                <element signature="e#20274#21256#0" />
+                <element signature="e#20377#21250#1" />
+                <element signature="e#20425#20660#1" />
+                <element signature="e#20461#20568#1" />
+                <element signature="e#20574#20646#1" />
+                <element signature="e#20787#21239#1" />
+                <element signature="e#20869#20976#1" />
+                <element signature="e#21068#21144#1" />
+                <element signature="e#21150#21225#1" />
+                <element signature="e#21262#22231#0" />
+                <element signature="e#21367#22225#1" />
+                <element signature="e#21415#21514#1" />
+                <element signature="e#21560#21669#1" />
+                <element signature="e#21791#22214#1" />
+                <element signature="e#22237#22374#0" />
+                <element signature="e#22380#23507#0" />
+                <element signature="e#22489#23501#1" />
+                <element signature="e#22537#22636#1" />
+                <element signature="e#22682#22791#1" />
+                <element signature="e#22913#23490#1" />
+                <element signature="e#23317#23394#1" />
+                <element signature="e#23400#23476#1" />
+                <element signature="e#23513#23825#0" />
+                <element signature="e#23623#23697#0" />
+                <element signature="e#23726#23763#0" />
+                <element signature="e#23783#23818#1" />
+                <element signature="e#23831#23966#0" />
+                <element signature="e#23972#24105#0" />
+                <element signature="e#24245#24374#0" />
+                <element signature="e#24494#24629#0" />
+                <element signature="e#24755#24884#0" />
+                <element signature="e#25016#25145#0" />
+                <element signature="e#25277#25408#0" />
+                <element signature="e#25799#26133#0" />
+                <element signature="e#25919#26005#0" />
+                <element signature="e#26034#26071#0" />
+                <element signature="e#26091#26126#1" />
+                <element signature="e#26139#26274#0" />
+                <element signature="e#26280#26617#0" />
+                <element signature="e#26403#26489#0" />
+                <element signature="e#26518#26555#0" />
+                <element signature="e#26575#26610#1" />
+                <element signature="e#26623#26752#0" />
+                <element signature="e#26758#27076#0" />
+                <element signature="e#26868#26948#0" />
+                <element signature="e#26977#27014#0" />
+                <element signature="e#27034#27069#1" />
+                <element signature="e#27082#27219#0" />
+                <element signature="e#27225#27551#0" />
+                <element signature="e#27339#27423#0" />
+                <element signature="e#27452#27489#0" />
+                <element signature="e#27509#27544#1" />
+                <element signature="e#27557#27692#0" />
+                <element signature="e#27698#28022#0" />
+                <element signature="e#27814#27894#0" />
+                <element signature="e#27923#27960#0" />
+                <element signature="e#27980#28015#1" />
+                <element signature="e#28028#28171#0" />
+                <element signature="e#28177#28509#0" />
+                <element signature="e#28297#28381#0" />
+                <element signature="e#28410#28447#0" />
+                <element signature="e#28467#28502#1" />
+                <element signature="e#28515#28653#0" />
+                <element signature="e#28779#28919#0" />
+                <element signature="e#28925#29563#0" />
+                <element signature="e#29035#29070#0" />
+                <element signature="e#29094#29405#0" />
+                <element signature="e#29135#29201#1" />
+                <element signature="e#29569#29647#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -175,7 +403,14 @@
       <find>jmocki</find>
       <find>junit</find>
       <find>getInstanceNum</find>
+      <find>Account</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\kozi_repos\programming\DynamicDropDowns\src\test\java\testScripts</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -188,19 +423,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/testScripts/radioButtonsHandler.java" />
-        <option value="$PROJECT_DIR$/src/test/java/testScripts/luxmedHandler.java" />
-        <option value="$PROJECT_DIR$/src/test/java/testScripts/stringImmutability.java" />
-        <option value="$PROJECT_DIR$/src/test/java/testScripts/stringImmutab2.java" />
-        <option value="$PROJECT_DIR$/src/test/java/testScripts/fluentHTTPclient.java" />
-        <option value="$PROJECT_DIR$/src/test/java/testScripts/stringImmutability3.java" />
-        <option value="$PROJECT_DIR$/src/test/java/testScripts/stringBuilder.java" />
-        <option value="$PROJECT_DIR$/src/test/java/testScripts/arrays.java" />
-        <option value="$PROJECT_DIR$/src/test/java/testScripts/interfacesAbstract.java" />
-        <option value="$PROJECT_DIR$/src/test/java/testScripts/readFromFile.java" />
-        <option value="$PROJECT_DIR$/src/test/java/testScripts/arrayList.java" />
-        <option value="$PROJECT_DIR$/src/test/java/testScripts/dateTime.java" />
-        <option value="$PROJECT_DIR$/src/test/java/testScripts/stringBuilderTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/testScripts/stringTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/testScripts/lambdaTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/testScripts/constructors.java" />
@@ -233,12 +455,25 @@
         <option value="$PROJECT_DIR$/src/test/java/testScripts/fileListInDirectory/ListFileByStream.java" />
         <option value="$PROJECT_DIR$/src/test/java/testScripts/students/GlownyCheck.java" />
         <option value="$PROJECT_DIR$/src/test/java/testScripts/interfaces/Raport.java" />
-        <option value="$PROJECT_DIR$/src/test/java/testScripts/interfaces/MainClass.java" />
         <option value="$PROJECT_DIR$/src/test/java/testScripts/interfaces/RaportyInterface.java" />
         <option value="$PROJECT_DIR$/src/test/java/testScripts/interfaces/Raporty.java" />
         <option value="$PROJECT_DIR$/src/test/java/config/helpers/lambdaTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/testScripts/ArrayDemo.java" />
         <option value="$PROJECT_DIR$/src/test/java/testScripts/MultiDimensionalArray.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testScripts/InheritanceCars/Cars.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testScripts/IIGenerateDiet/IBaseFeature.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testScripts/InheritanceCars/BMW.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testScripts/ReverseString.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testScripts/interfaces/MainClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testScripts/Account/Account.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testScripts/Account/AccountTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testScripts/BuilderSample/TaskSampleBuilder.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testScripts/BuilderSample/TaskSample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testScripts/Account/Task.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testScripts/Account/TaskBuilder.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testScripts/Account/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testScripts/BuilderSample/TaskBuilder.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testScripts/BuilderSample/MainTest.java" />
       </list>
     </option>
   </component>
@@ -280,7 +515,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="47" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -358,7 +593,74 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="testScripts" type="462c0819:PsiDirectoryNode" />
+              <item name="Account" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DynamicDropDowns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DynamicDropDowns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testScripts" type="462c0819:PsiDirectoryNode" />
+              <item name="BuilderSample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DynamicDropDowns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DynamicDropDowns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testScripts" type="462c0819:PsiDirectoryNode" />
               <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DynamicDropDowns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="DynamicDropDowns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 10 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="DynamicDropDowns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 10 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DynamicDropDowns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 10 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.base" type="462c0819:PsiDirectoryNode" />
+              <item name="javax" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DynamicDropDowns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 10 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.base" type="462c0819:PsiDirectoryNode" />
+              <item name="javax" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DynamicDropDowns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 10 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.base" type="462c0819:PsiDirectoryNode" />
+              <item name="javax" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DynamicDropDowns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 10 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.base" type="462c0819:PsiDirectoryNode" />
+              <item name="javax" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -373,7 +675,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SearchEverywhereHistoryKey" value="expected = 4;&#9;null&#9;null" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549497075072" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549813041446" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -382,6 +684,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="testScripts.BuilderSample" />
       <recent name="config.mainConfig" />
       <recent name="testScripts" />
       <recent name="config" />
@@ -404,13 +707,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MultiDimensionalArray">
-    <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testScripts.ArrayDemo" />
+  <component name="RunManager" selected="Application.MainTest">
+    <configuration name="AccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testScripts.Account.AccountTest" />
       <module name="DynamicDropDowns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testScripts.*" />
+          <option name="PATTERN" value="testScripts.BuilderSample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -431,12 +734,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testScripts.MultiDimensionalArray" />
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testScripts.BuilderSample.MainTest" />
       <module name="DynamicDropDowns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testScripts.*" />
+          <option name="PATTERN" value="testScripts.BuilderSample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -444,25 +747,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testScripts.arrays" />
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testScripts.BuilderSample.MainTest" />
       <module name="DynamicDropDowns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testScripts.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lambdaStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="config.helpers.lambdaStreams" />
-      <module name="DynamicDropDowns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="config.helpers.*" />
+          <option name="PATTERN" value="testScripts.BuilderSample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -495,20 +785,38 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
+    <configuration name="MainTest.main" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DynamicDropDowns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testScripts.BuilderSample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testScripts.BuilderSample" />
+      <option name="MAIN_CLASS_NAME" value="testScripts.BuilderSample.MainTest" />
+      <option name="METHOD_NAME" value="main" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.MainClass" />
-      <item itemvalue="Application.lambdaStreams" />
       <item itemvalue="Maven.DropDowns [test]" />
-      <item itemvalue="Application.arrays" />
-      <item itemvalue="Application.ArrayDemo" />
-      <item itemvalue="Application.MultiDimensionalArray" />
+      <item itemvalue="Application.MainClass" />
+      <item itemvalue="Application.AccountTest" />
+      <item itemvalue="Application.MainTest" />
+      <item itemvalue="TestNG.MainTest.main" />
+      <item itemvalue="Application.MainTest (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MultiDimensionalArray" />
-        <item itemvalue="Application.ArrayDemo" />
-        <item itemvalue="Application.arrays" />
-        <item itemvalue="Application.lambdaStreams" />
+        <item itemvalue="Application.MainTest" />
+        <item itemvalue="Application.MainTest (1)" />
+        <item itemvalue="TestNG.MainTest.main" />
+        <item itemvalue="Application.AccountTest" />
         <item itemvalue="Application.MainClass" />
       </list>
     </recent_temporary>
@@ -567,15 +875,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="selenideTest_userLoginbyUsername - 2019.01.16 at 21h 33m 13s.xml">
-      <configuration name="selenideTest.userLoginbyUsername" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="selenideTest_userLoginbyUsername - 2019.01.16 at 21h 33m 36s.xml">
-      <configuration name="selenideTest.userLoginbyUsername" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="selenideTest_userLoginbyUsername - 2019.01.16 at 21h 41m 05s.xml">
-      <configuration name="selenideTest.userLoginbyUsername" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="selenideTest_userLoginbyUsername - 2019.01.16 at 21h 47m 31s.xml">
       <configuration name="selenideTest.userLoginbyUsername" configurationId="TestNG" />
     </history-entry>
@@ -597,6 +896,15 @@
     <history-entry file="selenideTest_userLoginbyUsername - 2019.01.24 at 21h 27m 28s.xml">
       <configuration name="selenideTest.userLoginbyUsername" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="ReverseString - 2019.02.08 at 19h 46m 36s.xml">
+      <configuration name="ReverseString" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ReverseString_cosTam - 2019.02.08 at 19h 47m 29s.xml">
+      <configuration name="ReverseString.cosTam" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ReverseString_cosTam_(1) - 2019.02.08 at 19h 48m 15s.xml">
+      <configuration name="ReverseString.cosTam (1)" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -608,37 +916,38 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1511" height="916" extended-state="7" />
+    <frame x="-8" y="-8" width="1511" height="916" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5714286" visible="true" weight="0.2701585" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5695238" visible="true" weight="0.26878014" />
       <window_info id="Structure" order="1" sideWeight="0.42857143" side_tool="true" weight="0.2632667" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Learn" order="6" sideWeight="0.47619048" weight="0.34390077" />
-      <window_info id="Favorites" order="7" sideWeight="0.42857143" side_tool="true" weight="0.2632667" />
+      <window_info id="Favorites" order="7" sideWeight="0.4304762" side_tool="true" weight="0.26878014" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32992327" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.5506547" visible="true" weight="0.32950193" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.5451413" visible="true" weight="0.32950193" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.64851826" weight="0.3588761" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49689868" weight="0.32950193" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4996554" weight="0.30523628" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.4493453" side_tool="true" visible="true" weight="0.32950193" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.70020676" weight="0.32950193" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.36181945" weight="0.32950193" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49552032" weight="0.32950193" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49896622" weight="0.30523628" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.45485872" side_tool="true" visible="true" weight="0.32950193" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.69951755" weight="0.32950193" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.35079256" weight="0.32950193" />
       <window_info anchor="bottom" id="Dependency Viewer" order="11" sideWeight="0.4996554" weight="0.32992327" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24948311" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.24948311" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="right" id="Maven" order="8" visible="true" weight="0.15093039" />
+      <window_info anchor="right" id="Maven" order="8" weight="0.15093039" />
       <window_info anchor="right" id="Key Promoter X" order="9" weight="0.329428" />
     </layout>
   </component>
@@ -773,145 +1082,6 @@ $().findElement(By.name('q')).getText()</expression-string>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/luxmedHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/myContexManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-          <folding>
-            <element signature="e#107#108#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/mainInitializationClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#183#184#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/dateTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="19" column="93" selection-start-line="19" selection-start-column="93" selection-end-line="19" selection-end-column="93" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/config/helpers/PageActions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/stringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/mockITbegin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="24" column="13" selection-start-line="23" selection-start-column="4" selection-end-line="33" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/config/helpers/Finalizable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/DropDown.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="130" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../testNGmaven/src/test/java/com/cybercode/mvn/CarTestTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../testNGmaven/src/test/java/com/cybercode/mvn/CarTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="15" lean-forward="true" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/InterruptedException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="35" column="35" lean-forward="true" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/myContextManagerMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/config/helpers/readFromFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/function/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/jdk/internal/reflect/DelegatingMethodAccessorImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/reflect/Method.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8381">
@@ -1044,13 +1214,6 @@ $().findElement(By.name('q')).getText()</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/interfaces/MainClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/interfaces/RaportyInterface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1178,6 +1341,406 @@ $().findElement(By.name('q')).getText()</expression-string>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/IBaseFeature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/InheritanceCars/Cars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/IIGenerateDiet/IBaseFeature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="2" selection-start-line="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/InheritanceCars/BMW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#584#610#0" />
+            <element signature="e#616#765#0" />
+            <element signature="e#694#758#1" />
+            <element signature="e#868#1018#0" />
+            <element signature="e#946#1011#1" />
+            <element signature="e#1123#1289#0" />
+            <element signature="e#1452#1711#0" />
+            <element signature="e#1580#1640#1" />
+            <element signature="e#1646#1705#1" />
+            <element signature="e#1717#2088#0" />
+            <element signature="e#1837#2082#1" />
+            <element signature="e#1884#1948#1" />
+            <element signature="e#2008#2072#1" />
+            <element signature="e#2094#3239#0" />
+            <element signature="e#2199#3233#1" />
+            <element signature="e#2231#2322#1" />
+            <element signature="e#2354#2443#1" />
+            <element signature="e#2489#2553#1" />
+            <element signature="e#2648#2787#1" />
+            <element signature="e#2840#3222#1" />
+            <element signature="e#2969#3034#0" />
+            <element signature="e#3063#3208#0" />
+            <element signature="e#3354#3832#0" />
+            <element signature="e#3485#3826#1" />
+            <element signature="e#3545#3815#1" />
+            <element signature="e#3593#3801#1" />
+            <element signature="e#3949#4431#0" />
+            <element signature="e#4082#4425#1" />
+            <element signature="e#4142#4414#1" />
+            <element signature="e#4190#4400#1" />
+            <element signature="e#4544#5026#0" />
+            <element signature="e#4673#5020#1" />
+            <element signature="e#4733#5009#1" />
+            <element signature="e#4781#4995#1" />
+            <element signature="e#5147#5637#0" />
+            <element signature="e#5284#5631#1" />
+            <element signature="e#5344#5620#1" />
+            <element signature="e#5392#5606#1" />
+            <element signature="e#5752#6240#0" />
+            <element signature="e#5883#6234#1" />
+            <element signature="e#5943#6223#1" />
+            <element signature="e#5991#6209#1" />
+            <element signature="e#6357#6839#0" />
+            <element signature="e#6490#6833#1" />
+            <element signature="e#6550#6822#1" />
+            <element signature="e#6598#6808#1" />
+            <element signature="e#6958#7444#0" />
+            <element signature="e#7093#7438#1" />
+            <element signature="e#7153#7427#1" />
+            <element signature="e#7201#7413#1" />
+            <element signature="e#7559#8037#0" />
+            <element signature="e#7690#8031#1" />
+            <element signature="e#7750#8020#1" />
+            <element signature="e#7798#8006#1" />
+            <element signature="e#8043#8614#0" />
+            <element signature="e#8159#8195#1" />
+            <element signature="e#8201#8608#1" />
+            <element signature="e#8233#8329#1" />
+            <element signature="e#8361#8455#1" />
+            <element signature="e#8620#8749#0" />
+            <element signature="e#8755#8889#0" />
+            <element signature="e#8895#9024#0" />
+            <element signature="e#9030#9505#0" />
+            <element signature="e#9153#9259#1" />
+            <element signature="e#9185#9249#1" />
+            <element signature="e#9289#9402#1" />
+            <element signature="e#9328#9392#1" />
+            <element signature="e#9442#9498#1" />
+            <element signature="e#9511#9643#0" />
+            <element signature="e#9649#9977#0" />
+            <element signature="e#9768#9874#1" />
+            <element signature="e#9800#9864#1" />
+            <element signature="e#9914#9970#1" />
+            <element signature="e#9983#10112#0" />
+            <element signature="e#10118#10248#0" />
+            <element signature="e#10369#10505#0" />
+            <element signature="e#10632#10762#0" />
+            <element signature="e#10895#11025#0" />
+            <element signature="e#11158#11290#0" />
+            <element signature="e#11786#12102#0" />
+            <element signature="e#11873#12055#1" />
+            <element signature="e#11935#11985#1" />
+            <element signature="e#12204#12357#0" />
+            <element signature="e#12288#12350#1" />
+            <element signature="e#12363#12520#0" />
+            <element signature="e#12460#12514#1" />
+            <element signature="e#12641#12799#0" />
+            <element signature="e#12741#12792#1" />
+            <element signature="e#12926#13228#0" />
+            <element signature="e#13048#13090#1" />
+            <element signature="e#13234#13538#0" />
+            <element signature="e#13359#13401#1" />
+            <element signature="e#13670#13964#0" />
+            <element signature="e#13784#13826#1" />
+            <element signature="e#13970#14121#0" />
+            <element signature="e#14127#15166#0" />
+            <element signature="e#14240#15160#1" />
+            <element signature="e#14288#14509#1" />
+            <element signature="e#14324#14375#1" />
+            <element signature="e#14381#14495#1" />
+            <element signature="e#14803#15149#1" />
+            <element signature="e#15172#15315#0" />
+            <element signature="e#15321#16606#0" />
+            <element signature="e#15430#16600#1" />
+            <element signature="e#15478#15640#1" />
+            <element signature="e#15722#16072#1" />
+            <element signature="e#16157#16360#1" />
+            <element signature="e#16386#16589#1" />
+            <element signature="e#16612#16755#0" />
+            <element signature="e#16761#17288#0" />
+            <element signature="e#16870#17282#1" />
+            <element signature="e#16918#17137#1" />
+            <element signature="e#16954#17005#1" />
+            <element signature="e#17011#17123#1" />
+            <element signature="e#17294#17824#0" />
+            <element signature="e#17397#17818#1" />
+            <element signature="e#17477#17709#1" />
+            <element signature="e#17513#17564#1" />
+            <element signature="e#17570#17695#1" />
+            <element signature="e#17830#19008#0" />
+            <element signature="e#17940#19002#1" />
+            <element signature="e#18020#18156#1" />
+            <element signature="e#18202#18332#1" />
+            <element signature="e#18545#18627#1" />
+            <element signature="e#18734#18819#1" />
+            <element signature="e#18855#18991#1" />
+            <element signature="e#19014#19189#0" />
+            <element signature="e#19106#19141#1" />
+            <element signature="e#19147#19182#1" />
+            <element signature="e#19195#19332#0" />
+            <element signature="e#19338#19469#0" />
+            <element signature="e#19604#20268#0" />
+            <element signature="e#19703#20262#1" />
+            <element signature="e#19751#19986#1" />
+            <element signature="e#19787#19894#1" />
+            <element signature="e#19900#19972#1" />
+            <element signature="e#20024#20251#1" />
+            <element signature="e#20060#20159#1" />
+            <element signature="e#20165#20237#1" />
+            <element signature="e#20274#21256#0" />
+            <element signature="e#20377#21250#1" />
+            <element signature="e#20425#20660#1" />
+            <element signature="e#20461#20568#1" />
+            <element signature="e#20574#20646#1" />
+            <element signature="e#20787#21239#1" />
+            <element signature="e#20869#20976#1" />
+            <element signature="e#21068#21144#1" />
+            <element signature="e#21150#21225#1" />
+            <element signature="e#21262#22231#0" />
+            <element signature="e#21367#22225#1" />
+            <element signature="e#21415#21514#1" />
+            <element signature="e#21560#21669#1" />
+            <element signature="e#21791#22214#1" />
+            <element signature="e#22237#22374#0" />
+            <element signature="e#22380#23507#0" />
+            <element signature="e#22489#23501#1" />
+            <element signature="e#22537#22636#1" />
+            <element signature="e#22682#22791#1" />
+            <element signature="e#22913#23490#1" />
+            <element signature="e#23317#23394#1" />
+            <element signature="e#23400#23476#1" />
+            <element signature="e#23513#23825#0" />
+            <element signature="e#23623#23697#0" />
+            <element signature="e#23726#23763#0" />
+            <element signature="e#23783#23818#1" />
+            <element signature="e#23831#23966#0" />
+            <element signature="e#23972#24105#0" />
+            <element signature="e#24245#24374#0" />
+            <element signature="e#24494#24629#0" />
+            <element signature="e#24755#24884#0" />
+            <element signature="e#25016#25145#0" />
+            <element signature="e#25277#25408#0" />
+            <element signature="e#25799#26133#0" />
+            <element signature="e#25919#26005#0" />
+            <element signature="e#26034#26071#0" />
+            <element signature="e#26091#26126#1" />
+            <element signature="e#26139#26274#0" />
+            <element signature="e#26280#26617#0" />
+            <element signature="e#26403#26489#0" />
+            <element signature="e#26518#26555#0" />
+            <element signature="e#26575#26610#1" />
+            <element signature="e#26623#26752#0" />
+            <element signature="e#26758#27076#0" />
+            <element signature="e#26868#26948#0" />
+            <element signature="e#26977#27014#0" />
+            <element signature="e#27034#27069#1" />
+            <element signature="e#27082#27219#0" />
+            <element signature="e#27225#27551#0" />
+            <element signature="e#27339#27423#0" />
+            <element signature="e#27452#27489#0" />
+            <element signature="e#27509#27544#1" />
+            <element signature="e#27557#27692#0" />
+            <element signature="e#27698#28022#0" />
+            <element signature="e#27814#27894#0" />
+            <element signature="e#27923#27960#0" />
+            <element signature="e#27980#28015#1" />
+            <element signature="e#28028#28171#0" />
+            <element signature="e#28177#28509#0" />
+            <element signature="e#28297#28381#0" />
+            <element signature="e#28410#28447#0" />
+            <element signature="e#28467#28502#1" />
+            <element signature="e#28515#28653#0" />
+            <element signature="e#28779#28919#0" />
+            <element signature="e#28925#29563#0" />
+            <element signature="e#29035#29070#0" />
+            <element signature="e#29094#29405#0" />
+            <element signature="e#29135#29201#1" />
+            <element signature="e#29569#29647#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/annotations/Test.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-340">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/ReverseString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/interfaces/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt://C:/Program Files/Java/jdk-10.0.2!/java.base/javax/security/auth/login/AccountException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#379#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/Account/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding>
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/BuilderSample/TaskSampleBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="41" column="69" selection-start-line="41" selection-start-column="69" selection-end-line="41" selection-end-column="69" />
+          <folding>
+            <element signature="e#1062#1063#0" expanded="true" />
+            <element signature="e#1099#1100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/BuilderSample/TaskSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#684#685#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#771#772#0" expanded="true" />
+            <element signature="e#803#804#0" expanded="true" />
+            <element signature="e#847#848#0" expanded="true" />
+            <element signature="e#885#886#0" expanded="true" />
+            <element signature="e#916#917#0" expanded="true" />
+            <element signature="e#943#944#0" expanded="true" />
+            <element signature="e#970#971#0" expanded="true" />
+            <element signature="e#995#996#0" expanded="true" />
+            <element signature="e#1029#1030#0" expanded="true" />
+            <element signature="e#1059#1060#0" expanded="true" />
+            <element signature="e#1097#1098#0" expanded="true" />
+            <element signature="e#1131#1132#0" expanded="true" />
+            <element signature="e#1163#1164#0" expanded="true" />
+            <element signature="e#1193#1194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/BuilderSample/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/Account/AccountTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/BuilderSample/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+          <folding>
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#690#691#0" expanded="true" />
+            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+            <element signature="e#800#801#0" expanded="true" />
+            <element signature="e#854#855#0" expanded="true" />
+            <element signature="e#900#901#0" expanded="true" />
+            <element signature="e#931#932#0" expanded="true" />
+            <element signature="e#958#959#0" expanded="true" />
+            <element signature="e#999#1000#0" expanded="true" />
+            <element signature="e#1031#1032#0" expanded="true" />
+            <element signature="e#1063#1064#0" expanded="true" />
+            <element signature="e#1113#1114#0" expanded="true" />
+            <element signature="e#1157#1158#0" expanded="true" />
+            <element signature="e#1215#1216#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/BuilderSample/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="74" selection-start-line="6" selection-start-column="74" selection-end-line="6" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testScripts/BuilderSample/TaskBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#990#991#0" expanded="true" />
+            <element signature="e#1060#1061#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
